@@ -4,6 +4,11 @@
 
 ![ezgif com-gif-maker](https://github.com/kvebers/kvebers/assets/49612380/15755f2c-2a30-4783-ae49-84de9bfdaf81)
 
+# PUSH SWAP
+
+![ezgif com-gif-maker](https://github.com/kvebers/kvebers/assets/49612380/1503581e-372d-4781-9876-9e03b0cd672b)
+
+
 # LOONG
 
 ![ezgif com-video-to-gif](https://github.com/kvebers/kvebers/assets/49612380/2cd576fc-40c6-4009-9efb-91327794c8f4)
