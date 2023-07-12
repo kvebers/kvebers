@@ -14,5 +14,4 @@
 
 ## [OTHER PROJECTS AND MORE INFORMATION](https://github.com/kvebers/PROJECTS/tree/main)
 
-
 </div>
