@@ -6,26 +6,26 @@
 
  <p align="center">
   <a href="URL_OF_FIRST_PROJECT">
-    <img src="IMAGE_URL_FOR_FIRST_PROJECT" width="400" alt="Project 1" title="Project 1"/>
+    <img src="scop.png" width="400" alt="Project 1" title="Project 1"/>
   </a>
   <a href="URL_OF_SECOND_PROJECT">
-    <img src="IMAGE_URL_FOR_SECOND_PROJECT" width="400" alt="Project 2" title="Project 2"/>
+    <img src="minishell.png" width="400" alt="Project 2" title="Project 2"/>
   </a>
 </p>
 <p align="center">
   <a href="URL_OF_THIRD_PROJECT">
-    <img src="IMAGE_URL_FOR_THIRD_PROJECT" width="400" alt="Project 3" title="Project 3"/>
+    <img src="irc.png" width="400" alt="Project 3" title="Project 3"/>
   </a>
   <a href="URL_OF_FOURTH_PROJECT">
-    <img src="IMAGE_URL_FOR_FOURTH_PROJECT" width="400" alt="Project 4" title="Project 4"/>
+    <img src="1bit.png" width="400" alt="Project 4" title="Project 4"/>
   </a>
 </p>
 <p align="center">
   <a href="URL_OF_FIFTH_PROJECT">
-    <img src="IMAGE_URL_FOR_FIFTH_PROJECT" width="400" alt="Project 5" title="Project 5"/>
+    <img src="solong.png" width="400" alt="Project 5" title="Project 5"/>
   </a>
   <a href="URL_OF_SIXTH_PROJECT">
-    <img src="IMAGE_URL_FOR_SIXTH_PROJECT" width="400" alt="Project 6" title="Project 6"/>
+    <img src="cube4d.png" width="400" alt="Project 6" title="Project 6"/>
   </a>
 </p>
 
