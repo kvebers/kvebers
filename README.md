@@ -2,7 +2,7 @@
 <img
   src="ai.png"
   title="Just an Image"
-  style="display: inline-block; margin: 0 auto; max-width: 800 px">
+  style="display: inline-block; margin: 0 auto; width: 800 px">
 
  <p align="center">
   <a href="URL_OF_FIRST_PROJECT">
