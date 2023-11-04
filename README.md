@@ -1,8 +1,13 @@
 <div align="center">
-<img
-  src="ai.png"
-  title="Just an Image"
-  style="display: inline-block; margin: 0 auto; width: 800 px">
+  <img
+    src="ai.png"
+    title="Just an Image"
+    style="display: inline-block; margin: 0 auto; width: 804px;">
+</div>
+
+<div align="center" style="text-align: center;"> <!-- Added inline CSS for text alignment -->
+  <h3> PROJECTS </h3>
+</div>
 
  <p align="center">
   <a href="URL_OF_FIRST_PROJECT">
@@ -29,10 +34,8 @@
   </a>
 </p>
 
-
-  ### [MORE PROJECTS](https://github.com/kvebers/PROJECTS/tree/main)
-
-
-
+<div align="center" style="text-align: center;"> <!-- Added inline CSS for text alignment -->
+  <h3><a href="https://github.com/kvebers/PROJECTS/tree/main">MORE PROJECTS</a></h3>
+</div>
 
 </div>
