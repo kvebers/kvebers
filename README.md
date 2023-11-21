@@ -7,7 +7,7 @@
 
   <p>
   👋 Hey there! I'm Kārlis Vilhelms Vēbers, a tech enthusiast on a journey of coding, creativity, and cool projects.
-  I'm all about tech without the techy talk. Hit me up, and let's chat about the next big thing or, you know, just share some coding memes. Cheers to the chill side of tech life!
+  I'm all about tech without the techy talk. Hit me up, and let's chat about the next big thing or, you know, just share some coding memes.
   </p>
 
   <div align="center">
